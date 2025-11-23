@@ -37,7 +37,6 @@ func main() {
 	c := &Circle{a: 1, b: 2}
 	r.Perimeter()
 	r.Area()
-
 	c.Perimeter()
 	c.Area()
 }
